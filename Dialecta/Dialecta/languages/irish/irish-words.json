@@ -1,0 +1,44 @@
+{
+  "A1": {
+    "greetings": [
+      {
+        "irish": "Dia duit",
+        "english": "Hello"
+      },
+      {
+        "irish": "Conas atá tú?",
+        "english": "How are you?"
+      },
+      {
+        "irish": "Slán",
+        "english": "Goodbye"
+      }
+    ],
+    "numbers": [
+      {
+        "irish": "A haon",
+        "english": "One"
+      },
+      {
+        "irish": "A dó",
+        "english": "Two"
+      },
+      {
+        "irish": "A trí",
+        "english": "Three"
+      }
+    ]
+  },
+  "A2": {
+    "greetings": [
+      {
+        "irish": "Cén chaoi a bhfuil tú?",
+        "english": "How are you?"
+      },
+      {
+        "irish": "Go raibh maith agat",
+        "english": "Thank you"
+      }
+    ]
+  }
+}
